@@ -1,0 +1,2 @@
+Ingresa el vector
+ORDENAR EN FORMA ASCENDENTE 
